@@ -17,6 +17,6 @@ export default new Router({
       path: '/photos',
       name: 'Photography',
       component: Photography
-    },
+    }
   ]
 })

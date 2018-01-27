@@ -38,7 +38,7 @@
 <script>
 export default {
   name: 'Photography',
-  data: function() {
+  data: function () {
     return {
       photos: [
         {
@@ -114,7 +114,7 @@ export default {
       ]
     }
   }
-};
+}
 </script>
 
 <!-- Add 'scoped' attribute to limit CSS to this component only -->
